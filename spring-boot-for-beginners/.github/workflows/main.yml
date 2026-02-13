@@ -1,4 +1,4 @@
-name: Build & Deploy Spring app
+name: Build and Deploy Spring app
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-deploy:
-    name: Build & Deploy Spring app
+    name: Build and Deploy Spring app
     runs-on: ubuntu-latest
 
     steps:
